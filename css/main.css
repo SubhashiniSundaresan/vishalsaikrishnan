@@ -164,10 +164,11 @@ p.lead {
 	}
 }
 em, i, strong, b {
-	font-size: 1.7rem;
+	font-size: 2.5rem;
 	line-height: 3rem;
 	font-style: normal;
 	font-weight: normal;
+	color: #3b3b3b;
 }
 em, i {
 	font-family: "lora-italic", serif;
